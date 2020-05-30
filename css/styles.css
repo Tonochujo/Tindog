@@ -1,0 +1,86 @@
+
+/**font-family: 'Montserrat', sans-serif; font-family: 'Ubuntu', sans-serif; **/
+/****************** ELEMENT SELECTORS ***************/
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: #8f8f8f;
+}
+/****************** TAG SELECTORS ******************/
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.description {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.features-row {
+    padding: 9rem 10rem;
+}
+
+.features-description {
+  padding: 1rem 2.6rem;
+  text-align: center;
+}
+
+.features-icon {
+  font-size: 4.5rem;
+  margin-bottom: 7.5%;
+  color: #ef8172;
+}
+
+.features-icon:hover {
+  color: #ff4c68;
+}
+
+/****************** ID SELECTORS *******************/
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+/****************** NAVIGATION BAR *****************/
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  font-size: 1.2rem;
+}
+
+/****************** DOWNLOAD BUTTON *****************/
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/****************** TITLE IMAGE *****************/
+
+.title-image {
+  width: 60%;
+  transform: rotate(25deg );
+}

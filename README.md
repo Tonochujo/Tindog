@@ -1,2 +1,1 @@
-# Tindog
-For Web Development Bootcamp
+TinDog Starting Files
